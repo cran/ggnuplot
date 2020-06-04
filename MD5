@@ -1,0 +1,11 @@
+97bcdf01458763f385b599a7e49e7ce7 *DESCRIPTION
+9ac7367e9cd9c47d976fa3069083c3c7 *LICENSE
+37347ee265ebbd6f8638de316a2e1098 *NAMESPACE
+1ae4490d18c504cd514f022ff73fcd56 *NEWS.md
+c1ce4a4a19ed1438b89799067152774b *R/ggnuplot.R
+6e943688ffc934cc88fe168bfd7f1fb9 *README.md
+f9992cab820d8e0c2b42a0a456041dad *man/figures/README-example1-1.png
+291fb1a70196e38ea3cc5199d5f45177 *man/figures/README-example2-1.png
+2432c777df19b38ef66d89e9c2a380b3 *man/scale_color_gnuplot.Rd
+a892b6290fe219356d5130b8189eee5e *man/scale_x_gnuplot.Rd
+636f1b61970d412634b5203abfb43b97 *man/theme_gnuplot.Rd
